@@ -4,6 +4,10 @@ A lightweight Windows desktop app built with C# and WinForms (.NET 8) that lets 
 
 > **Status:** Early development. The project scaffold is in place and core features are being built.
 
+<img width="355" height="358" alt="image" src="https://github.com/user-attachments/assets/332c0108-749f-4b32-a9b1-eac70c871f04" />
+<img width="193" height="67" alt="image" src="https://github.com/user-attachments/assets/7213d595-7275-4409-8cd8-441c6d549795" />
+
+
 ## Features
 
 - Lock keyboard input on demand
